@@ -38,7 +38,7 @@ jobs:  # Telling what jobs we need to happen
         run: flutter build appbundle
       
       - name: Upload Android Artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: Android Releases
           path: |
