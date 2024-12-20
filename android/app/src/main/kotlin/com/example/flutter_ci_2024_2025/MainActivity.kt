@@ -1,4 +1,4 @@
-package com.example.flutter_ci_2024_2025
+package com.example.flutter_ci_2024
 
 import io.flutter.embedding.android.FlutterActivity
 

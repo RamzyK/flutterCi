@@ -1,1 +1,41 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"ciflutter","appId":"1:503279961692:android:b26bb48d5e0ce585d44899","fileOutput":"android/app/google-services.json"}},"ios":{"default":{"projectId":"ciflutter","appId":"1:503279961692:ios:cc452c847c032910d44899","uploadDebugSymbols":false,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},"macos":{"default":{"projectId":"ciflutter","appId":"1:503279961692:ios:cc452c847c032910d44899","uploadDebugSymbols":false,"fileOutput":"macos/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"ciflutter","configurations":{"android":"1:503279961692:android:b26bb48d5e0ce585d44899","ios":"1:503279961692:ios:cc452c847c032910d44899","macos":"1:503279961692:ios:cc452c847c032910d44899","web":"1:503279961692:web:95ee973af8c11491d44899","windows":"1:503279961692:web:3f4591cdab744d54d44899"}}}}}}
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "ciflutter",
+                    "appId": "1:503279961692:android:b26bb48d5e0ce585d44899",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "ios": {
+                "default": {
+                    "projectId": "ciflutter",
+                    "appId": "1:503279961692:ios:cc452c847c032910d44899",
+                    "uploadDebugSymbols": false,
+                    "fileOutput": "ios/Runner/GoogleService-Info.plist"
+                }
+            },
+            "macos": {
+                "default": {
+                    "projectId": "ciflutter",
+                    "appId": "1:503279961692:ios:cc452c847c032910d44899",
+                    "uploadDebugSymbols": false,
+                    "fileOutput": "macos/Runner/GoogleService-Info.plist"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "ciflutter",
+                    "configurations": {
+                        "android": "1:503279961692:android:b26bb48d5e0ce585d44899",
+                        "ios": "1:503279961692:ios:cc452c847c032910d44899",
+                        "macos": "1:503279961692:ios:cc452c847c032910d44899",
+                        "web": "1:503279961692:web:95ee973af8c11491d44899",
+                        "windows": "1:503279961692:web:3f4591cdab744d54d44899"
+                    }
+                }
+            }
+        }
+    }
+}
